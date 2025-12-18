@@ -1,8 +1,5 @@
 # Domain-Driven Infrastructure
 
-![Cover](media/domain-driven-infrastructure-cover.png)
-![Grayscale Cover](media/domain-driven-infrastructure-grayscale-cover.png)
-
 **Proposed animal:** Beaver  
 **Audience:** Platform engineers, infrastructure architects, internal platform teams  
 **Thesis:** Applying DDD principles to infrastructure to model intent, constraints, and policy before provisioning.  
@@ -14,3 +11,8 @@
 
 - Talks on platform engineering & internal APIs
 - Articles about DDD applied to cloud
+
+## Covers
+
+![Cover](media/domain-driven-infrastructure-cover.png)
+![Grayscale Cover](media/domain-driven-infrastructure-grayscale-cover.png)
