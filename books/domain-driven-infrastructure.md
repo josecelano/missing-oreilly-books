@@ -71,6 +71,7 @@ However, no comprehensive treatment exists that systematically applies DDD princ
 **Articles:**
 
 - [Efficient Cloud Development using Domain-Driven Design: Infrastructure from Code](https://medium.com/aws-tip/efficient-cloud-development-using-domain-driven-design-infrastructure-from-code-ed81c881fb0c) - Exploring DDD patterns for cloud infrastructure
+- [Domain Driven Pipelines](https://www.mattheworford.dev/blog/domain-driven-pipelines) - Applying domain-driven principles to CI/CD pipelines
 
 **Videos:**
 
